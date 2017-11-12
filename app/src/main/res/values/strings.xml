@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Trivia</string>
+    <string name="play_button_text">play</string>
+    <string name="high_score_button_text">High Scores</string>
+    <string name="skip">skip</string>
+    <string name="skip_pressed">Question skipped</string>
+    <string name="score">Score</string>
+    <string name="high_score">High Score</string>
+    <string name="placeholder">PLACE HOLDER</string>
+</resources>

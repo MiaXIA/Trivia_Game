@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="top_left_button" type="id">TopLeft</item>
+    <item name="top_right_button" type="id">TopRight</item>
+    <item name="bottom_left_button" type="id">BottomLeft</item>
+    <item name="bottom_right_button" type="id">BottomRight</item>
+</resources>
